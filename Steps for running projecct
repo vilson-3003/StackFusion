@@ -1,0 +1,12 @@
+Django Project name : quotes
+django app name: core
+React app name: our-quote
+
+Installed packages in python: 1: django
+                              2: rest_framework
+                              3:corsheader
+                              
+1:Clone and download the project.
+2:After downloading extract the file.
+3: to run django app:- go to quotes run command py manage.py runserver.
+4: to run react js app : go to quotes: run command npm star.
